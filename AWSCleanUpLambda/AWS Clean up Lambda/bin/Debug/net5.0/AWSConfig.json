@@ -1,0 +1,26 @@
+[
+  {
+    "air": 1000,
+    "name": "stage",
+    "region": "us-east-1",
+    "accesskey": "MY_AWS_ACCOUNT",
+    "secretkey": "MY_SECRET_KEY",
+    "logGroupNamePrefix": "/aws/lambda/YOUR_LOG_PATH" 
+  },
+  {
+    "air": 1000,
+    "name": "dev",
+    "region": "us-east-1",
+    "accesskey": "MY_AWS_ACCOUNT",
+    "secretkey": "MY_SECRET_KEY",
+    "logGroupNamePrefix": "/aws/lambda/YOUR_LOG_PATH"
+  },
+  {
+    "air": 1000,
+    "name": "prod",
+    "region": "us-east-1",
+    "accesskey": "MY_AWS_ACCOUNT",
+    "secretkey": "MY_SECRET_KEY",
+    "logGroupNamePrefix": "/aws/lambda/YOUR_LOG_PATH"
+  }
+]
